@@ -1,0 +1,11 @@
+identifier: k2z5vbtdr878k8z5
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: test
+homeFolder: C:\Users\Sondos\Desktop\test-browser-without-cross\test
+distFolder: dist/test
+outDir: C:\Users\Sondos\Desktop\test-browser-without-cross\test\dist\static
+handle404: ''
+allowErrorCollect: true
